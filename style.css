@@ -1,0 +1,24 @@
+.container{
+    margin: auto;
+}
+.row{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.col{
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+/*.red{
+    border: 1px solid black;
+    background-color: red;
+}
+*/
